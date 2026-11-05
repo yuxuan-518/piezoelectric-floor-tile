@@ -13,6 +13,7 @@ The `ab-comparison/` files snapshot displayed values read from Excel Online on *
 | [multi-step.csv](ab-comparison/multi-step.csv) | 30 runs: five per structure for each of 5, 10, and 20 steps |
 | [summary.csv](ab-comparison/summary.csv) | Means and sample SD calculated from the copied records |
 | [workbook-display-copy-2026-11-04.json](ab-comparison/workbook-display-copy-2026-11-04.json) | Compact copied values, source URL, retrieval date, and capture method |
+| [ab-formula-review-2026-11-05.xlsx](ab-comparison/ab-formula-review-2026-11-05.xlsx) | Derived review workbook: formula-based summary, copied trial values, and voltage-rounding checks; not the original XLSX |
 
 **A = one-disc V1-derived sponge structure. B = one-disc V3 center-punch structure.** The full historical V1 tile used eight parallel discs.
 
@@ -31,6 +32,16 @@ The `ab-comparison/` files snapshot displayed values read from Excel Online on *
 | `n`, `mean`, `sample_sd` | Descriptive record count, arithmetic mean, and sample standard deviation |
 
 For single-step data, displayed voltage has one decimal place. Keep the workbook's recorded energy rather than treating a calculation from rounded voltage as full precision. Multi-step energy is the **total after that many steps**, not energy per step. [Measurement details and summary discrepancy](../docs/experiments.md).
+
+### Formula review and original-workbook status
+
+The review workbook is built from these CSV snapshots. Its `Summary` sheet replaces the outdated summary for this local review only: 100 single steps per structure, 60 quasi-open-circuit steps per structure, and five runs per structure at each multi-step count. Formula-based means and sample SD reproduce `summary.csv` without excluding records.
+
+`Capacitor` preserves the copied voltages and recorded energy in separate input columns. The recalculated column applies `0.5 * C * (V1^2 - V0^2)` to rounded voltage, so its difference from recorded energy is visible rather than overwritten. Lower/upper energy bounds use ±0.05 V for single-step and ±0.005 V for multi-step voltage displays, with corresponding energy-display rounding. A compatible value means the rounding intervals overlap; it does not recover hidden cell precision or verify the original formula. `Voltage` preserves copied Vmax/Vmin/Vpp and checks their arithmetic.
+
+The ratio of means **B/A = 6.233** and relative increase **(B−A)/A = 523.3%** are labeled separately. Neither is a conversion-efficiency estimate. The live source's older “提升倍” values use an increase relative to A, so they must not be interpreted directly as B/A.
+
+The original `.xlsx` has **not** been archived: the read-only Excel Online “Download a copy” command did not return a file on November 5, 2026. Original cell formulas and full-precision values therefore remain unavailable. The live workbook, including its older “条件” summary, has not been changed. When an original export becomes available, preserve it separately and reconcile it against this dated snapshot before replacing any published statistics.
 
 ## Historical V1/V2 measurements
 

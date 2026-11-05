@@ -14,6 +14,23 @@
 
 The oscilloscope presents a finite input impedance, hence the retained term **quasi-open-circuit**. Voltage measurements under this condition are not delivered load energy.
 
+## Stepping protocol and comparison limits
+
+The team confirmed the following conditions on November 5, 2026:
+
+| Condition | Recorded protocol |
+| --- | --- |
+| Operator, footwear, and stepping location | Same person, same shoes, and a fixed stepping location for A/B |
+| Input motion | Normal stepping; displacement/travel and stepping speed or cadence were neither controlled nor recorded |
+| Test order | A/B alternation; no randomization is claimed |
+| Piezoelectric disc model | Same model for A/B; exact specification is not recorded in this snapshot |
+| Rectifier bridge | Same bridge for A/B; exact specification is not recorded in this snapshot |
+| Readout timing | Same post-step waiting time for A/B; its numerical duration is not recorded in this snapshot |
+
+Alternating order, a shared operator, matching component types, and matching readout delay reduce some procedural differences, but do not establish equal force, displacement, or mechanical work at each step. The results describe capacitor storage in these normal-stepping tests. They do not isolate mechanism-only effects or establish an electrical conversion-efficiency gain. Readout timing matters because stored voltage can decay after a step.
+
+For a future controlled comparison, record force and displacement together to estimate input work, specify the post-step readout delay, and record the disc and rectifier specifications. Keep those future measurements separate from this existing dataset. Alternation alone does not establish paired observations: the copied worksheet has no event log linking specific A and B steps.
+
 ## Stored-energy calculation
 
 For each trial:
@@ -44,7 +61,9 @@ The unlabelled flattened columns on the right of the single-step sheet are not i
 
 The “条件” sheet still describes three groups and contains earlier single-step summary values. Its A energy means (roughly 2.3–2.5 μJ) differ from the current labeled single-step blocks (roughly 10–13 μJ per group). Its B values also differ from the expanded current blocks. Consequently, its earlier improvement figures are not used as current results.
 
-The repository's [summary.csv](../data/ab-comparison/summary.csv) is recomputed from the current labeled blocks. It gives approximately **11.6 μJ for A and 72.5 μJ for B**, with a ratio of means around **6.23**. This is a descriptive comparison of the stored-energy records. The chart shows sample SD rather than confidence intervals. Subject-level independence, randomized order, and a measured input-energy match have not been established here.
+The repository's [summary.csv](../data/ab-comparison/summary.csv) is recomputed from the current labeled blocks. It gives approximately **11.6 μJ for A and 72.5 μJ for B**, with a ratio of means around **6.23**. This is a descriptive comparison of the stored-energy records. The chart shows sample SD rather than confidence intervals. Repeated steps from one person are not independent participants; test order alternated and mechanical input work was not measured.
+
+The [formula review workbook](../data/ab-comparison/ab-formula-review-2026-11-05.xlsx) supplies current summary formulas and a separate calculation from rounded voltage, including its rounding interval. It is derived from the November 4 displayed-value snapshots. It does not preserve the live workbook's original formulas or hidden precision, and does not replace an original XLSX archive. The older online “条件” sheet has not been edited.
 
 The condition sheet mentions 50-step charging and a 150-cycle durability test. No separate populated records for those tests were identified in the six available sheets, so those tests are not presented as completed results.
 
