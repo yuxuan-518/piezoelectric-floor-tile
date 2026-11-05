@@ -52,8 +52,16 @@ Mean single-step stored energy for B was about **6.23 times A's (B/A = 6.23)** i
 | Chinese laboratory summaries and process reports | [docs/process-reports/](docs/process-reports/README.md) |
 | Full V2 CAD and historical V1/V2 measurement archive | [Project archive release](https://github.com/yuxuan-518/piezoelectric-floor-tile/releases/tag/project-archive-2026-11-04) |
 
-## Contributors and reference
+## Contributors
 
-**Shaoxuan Xiong, Shuoqi Yang, and Wenhao Jia.** [Contributions and attribution](CREDITS.md).
+| Contributor | Contributions |
+| --- | --- |
+| **Shaoxuan Xiong** | **Research lead and first author of the project manuscript.** Developed the research idea, workflow, and methods. Led early circuit assembly, capacitor selection, and V1/V2 measurements; assessed data quality and plausibility and led the overall analysis. Reviewed the V3 data collected independently by Wenhao Jia and Shuoqi Yang, then performed the complete analysis and prepared the figures. Led V2 mechanism development, Python simulation, and spring-parameter selection. Revised and checked the physical model assembled by Shuoqi Yang. Set the manuscript structure and revised Wenhao Jia's first draft into the final manuscript. |
+| **Shuoqi Yang** | Led V1/V2 CAD modeling and contributed to structural redesign and V2 mechanism development. Assembled the complete physical model for review and revision with Shaoxuan Xiong. Performed most routine circuit preparation and acted as the stepping operator. Contributed substantially to V1/V2 data organization, analysis, and figures. Independently collected the V3 dataset together with Wenhao Jia and sent it to Shaoxuan Xiong for review and analysis. |
+| **Wenhao Jia** | Wrote the first manuscript draft from Shaoxuan Xiong's outline. Assisted V1/V2 CAD modeling and contributed to V3 mechanism modeling and animation. Helped with circuit preparation, reported readings for Shaoxuan Xiong to record, and filmed experiments. Independently collected the V3 dataset together with Shuoqi Yang and sent it to Shaoxuan Xiong for review and analysis. |
+
+[Detailed contributions and attribution](CREDITS.md).
+
+## Reference
 
 Selim, K. K., Yehia, H. M., & Saleeb, D. A. (2024). *Energy Harvesting Floor Tile Using Piezoelectric Patches for Low-Power Applications*. Journal of Vibration Engineering & Technologies, 12, 8613–8622. [doi:10.1007/s42417-024-01379-z](https://doi.org/10.1007/s42417-024-01379-z). Performance reported in that paper belongs to its prototype and is not presented as our measured output.
