@@ -67,7 +67,7 @@ All entries below are **arithmetic mean ± sample standard deviation (SD)**. The
 Capacitor energy was calculated as
 
 $$
-\Delta E_C=\frac{1}{2}C\left(V_1^2-V_0^2\right),\qquad C=4.7\,\mu\mathrm{F}.
+\Delta E_C=\frac{1}{2}C\left(V_1^2-V_0^2\right),\qquad C=4.7\mu\mathrm{F}.
 $$
 
 With voltage in volts, energy in μJ is `2.35 × (V1² − V0²)`. This measures the increase in stored capacitor energy during the reading window. Quasi-open-circuit Vpp is a voltage metric measured under a different electrical condition; it is not a delivered-energy or power measurement.
