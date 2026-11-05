@@ -1,0 +1,8 @@
+# 压电地板仿真项目依赖
+# 开发/验证环境：Python 3.9.6（macOS Darwin 25.3.0）
+# 安装：pip3 install -r requirements.txt
+
+numpy>=1.24,<3.0
+pandas>=2.0,<3.0
+scipy>=1.11,<2.0
+matplotlib>=3.7,<4.0

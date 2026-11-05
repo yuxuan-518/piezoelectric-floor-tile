@@ -1,0 +1,11 @@
+test,structure,steps,n,metric,mean,sample_sd
+single_step,A,1,100,recorded_energy_display_uj,11.628,6.348977170466997
+single_step,B,1,100,recorded_energy_display_uj,72.475,12.849355405756134
+quasi_open_circuit,A,1,60,vpp_v,40.151833333333336,3.8911235324302886
+quasi_open_circuit,B,1,60,vpp_v,94.93333333333334,16.69453038071956
+multi_step,A,5,5,recorded_energy_display_uj,70.972,17.47784941003898
+multi_step,B,5,5,recorded_energy_display_uj,610.4540000000001,73.38548037588909
+multi_step,A,10,5,recorded_energy_display_uj,174.536,45.14376845147069
+multi_step,B,10,5,recorded_energy_display_uj,896.0360000000001,86.59469025292486
+multi_step,A,20,5,recorded_energy_display_uj,348.652,57.81866843848964
+multi_step,B,20,5,recorded_energy_display_uj,1484.616,104.97926904870315

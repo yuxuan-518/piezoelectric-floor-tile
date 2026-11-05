@@ -1,0 +1,16 @@
+# generated_at: 2026-07-02 21:46:52
+# source: measured_v3_sim_sweep.csv  preprocess=clamp 子集
+# strong_candidate:   max_rel_speed_ms >= 0.5
+# moderate_candidate: 0.1 <= v < 0.5
+# borderline_candidate: 0.05 <= v < 0.1
+# below_threshold:    v < 0.05（有效但不纳入主结论）
+# time_precision_note: 100Hz 数据，Δt=10ms，样条插值。
+#   detach_time_s 的 1e-7 精度是数学精度，非物理精度（物理精度≤5ms）。
+#   论文引用请用 detach_time_paper_s（精确到 1ms），并注明'约 XXX ms'。
+# note: recommended 字段来自参数化模型语境，在此仅作参考，不作论文依据。
+trial,preprocess,smooth,m_g,k_Nmm,k_Nm,e,T_up_crit_ms,detach,detach_time_s,N_at_detach,impact_count,impact_times_s,max_rel_speed_ms,max_impact_energy_mJ,risky,recommended,data_end_s,detach_margin_to_end_s,is_tail_detach_20ms,is_early_detach_20ms,is_valid_detach_for_paper,n_clamped_pts,candidate_grade,detach_time_paper_s
+fast_3,clamp,none,100,0.5,500,0.5,31.4,True,0.285531,0.0,2,"[0.3039177, 0.3544288]",1.16857,68.27779,False,True,0.32,0.03447,False,False,True,2,strong,0.28600000000000003
+fast_1,clamp,none,150,0.5,500,0.5,38.5,True,0.2755893,0.0,1,[0.2953282],1.10563,91.68052,False,True,0.32,0.04441,False,False,True,0,strong,0.276
+fast_3,clamp,none,150,1.0,1000,0.5,27.2,True,0.2864518,0.0,2,"[0.3017883, 0.3484765]",0.96123,69.29751,False,True,0.32,0.03355,False,False,True,2,strong,0.28600000000000003
+slow_1,clamp,none,150,0.5,500,0.5,38.5,True,0.0680419,0.0,3,"[0.0791102, 0.3736717, 0.4642529]",0.83619,52.44143,False,True,0.43,0.36196,False,False,True,3,strong,0.068
+fast_1,clamp,none,100,0.5,500,0.5,31.4,True,0.2773168,0.0,1,[0.2895308],0.63798,20.3512,False,True,0.32,0.04268,False,False,True,0,strong,0.277

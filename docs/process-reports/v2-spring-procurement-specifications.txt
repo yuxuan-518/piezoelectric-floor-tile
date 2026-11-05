@@ -1,0 +1,6 @@
+Compression springs for prototype testing (music wire / carbon spring steel, closed and ground ends, light oil or black oxide)
+Spec A: k 0.517 N/mm, OD 42.85 mm, free length 101.6 mm, wire 2.32 mm, inner clearance 36.53 mm, solid height 23.95 mm
+Spec B: k 0.718 N/mm, OD 42.85 mm, free length 101.6 mm, wire 2.54 mm, inner clearance 35.71 mm, solid height 27.03 mm
+Spec C: k 0.905 N/mm, OD 42.85 mm, free length 101.6 mm, wire 2.67 mm, inner clearance 35.71 mm, solid height 27.79 mm
+Tolerances: rate +/-10%, OD +/-1 mm, free length +/-2 mm. Qty 1 each.
+Target ranges: A 0.5 N/mm (main), B 0.75 N/mm, C 1.0 N/mm.
