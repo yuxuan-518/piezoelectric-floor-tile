@@ -1,6 +1,6 @@
 # Contributors
 
-This project was developed by Shaoxuan Xiong, Shuoqi Yang, and Wenhao Jia. The contributions below reflect the team's clarification of November 5, 2026. **Shaoxuan Xiong led the research and is the first author of the project manuscript.**
+This project was developed by Shaoxuan Xiong, Shuoqi Yang, and Wenhao Jia. The original contributions were clarified on November 5, 2026; Shuoqi Yang's and Wenhao Jia's descriptions were revised on November 8, 2026. **Shaoxuan Xiong led the research and is the first author of the project manuscript.**
 
 ## Shaoxuan Xiong
 
@@ -14,22 +14,11 @@ This project was developed by Shaoxuan Xiong, Shuoqi Yang, and Wenhao Jia. The c
 
 ## Shuoqi Yang
 
-- Performed most routine preparation, including circuit soldering and wire cutting, and took on later circuit work after the initial work led by Shaoxuan Xiong.
-- Acted as the stepping operator during piezoelectric measurements.
-- Contributed substantially to V1/V2 data organization, analysis, and figure preparation.
-- Assembled the complete physical model and submitted it to Shaoxuan Xiong for revision and checking. Discussed and finalized the model with him.
-- Participated in multiple structural revisions and design changes.
-- Independently led V1/V2 CAD modeling, with modeling assistance from Wenhao Jia.
-- Supported Shaoxuan Xiong's development of the V2 physical mechanism.
-- Together with Wenhao Jia, independently collected all V3 measurement data and sent them to Shaoxuan Xiong for plausibility review, analysis, and figure preparation.
+Participated in measuring, recording, and transcribing V2 and V3 experimental data, and analyzed the V2 data by organizing the measurements and comparing output across tests to support subsequent structural revisions and discussion of the results. For the V2 motion study, measured and transcribed the displacement of the upper wooden plate driven by footsteps, providing measured motion inputs for simulation. Was responsible for CAD modeling of V2 modular components, representing the mechanical parts and their structural relationships for assembly and design discussions. In the V3 stage, led the organization of the physical formulas, including the quantities and relationships used to analyze mechanism motion and contact forces. Also carried out circuit connection and soldering to support prototype construction and experimental measurements.
 
 ## Wenhao Jia
 
-- Performed a smaller share of routine preparation, including circuit soldering and wire cutting, and took on later circuit work with Shuoqi Yang.
-- Reported post-step readings for Shaoxuan Xiong to enter into the measurement table and recorded experimental videos for review.
-- Assisted V1/V2 CAD modeling and contributed to V3 mechanism modeling and animation.
-- Wrote the first manuscript draft using the complete structure established by Shaoxuan Xiong. Shaoxuan Xiong revised the draft into the final manuscript.
-- Together with Shuoqi Yang, independently collected all V3 measurement data and sent them to Shaoxuan Xiong for plausibility review, analysis, and figure preparation.
+Wrote the first manuscript draft according to the established outline, organizing the design evolution, experimental methods, and research results into initial sections for subsequent discussion and revision. Participated in measuring and recording V2 and V3 experimental data and assisted with transcription. For the V2 motion study, recorded and transcribed displacement measurements of the upper wooden plate driven by footsteps to support subsequent data processing and simulation. Was responsible for V2 CAD assembly modeling, bringing the component models together into a complete assembly, and produced force-analysis animations to illustrate structural relationships and loading. In the V3 stage, participated in collaborative mechanism design and carried out the related CAD modeling and motion-animation work to illustrate the mechanism's motion and triggered release.
 
 ## Prototype reference
 
