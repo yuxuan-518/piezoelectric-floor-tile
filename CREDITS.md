@@ -1,16 +1,10 @@
 # Contributors
 
-This project was developed by Shaoxuan Xiong, Shuoqi Yang, and Wenhao Jia. The original contributions were clarified on November 5, 2026; Shuoqi Yang's and Wenhao Jia's descriptions were revised on November 8, 2026. **Shaoxuan Xiong led the research and is the first author of the project manuscript.**
+This project was developed by Shaoxuan Xiong, Shuoqi Yang, and Wenhao Jia. The original contributions were clarified on November 5, 2026; all three contributor descriptions were revised on November 8, 2026. **Shaoxuan Xiong led the research and is the first author of the project manuscript.**
 
 ## Shaoxuan Xiong
 
-- Led the research as a whole and developed its central idea, workflow, and methods.
-- Led early circuit soldering and capacitor selection. Later routine circuit preparation was carried out by Wenhao Jia and Shuoqi Yang.
-- Led the initial V1/V2 measurement work and retained overall responsibility for checking measurement consistency, assessing the plausibility of the observed patterns, and analyzing the data. Shuoqi Yang contributed substantially to data organization, analysis, and figures.
-- Reviewed all V3 measurement data after Wenhao Jia and Shuoqi Yang collected them independently and sent them to him. Performed the complete V3 data analysis and prepared the figures.
-- Revised, reorganized, and checked the physical model assembled by Shuoqi Yang. Their discussion and review produced the final model included in the manuscript.
-- Established the complete manuscript structure, assigned the first draft to Wenhao Jia, and revised that draft into the final manuscript. Serves as the manuscript's first author.
-- Led the full development of the V2 physical mechanism, carried out Python simulation and analysis, and determined the spring parameters used for purchasing, with supporting work by Shuoqi Yang.
+As the first author of the project manuscript and research lead, I led the development of the research idea, workflow, and methods, and coordinated the project's experimental and analytical work. I was responsible for early circuit assembly, capacitor selection, and V1/V2 measurements, assessed data quality and the plausibility of the results, and led the overall data analysis. During V2 development, I led mechanism development, Python simulation, and spring-parameter selection, and revised and checked the physical model assembled by Shuoqi Yang. During the V3 stage, I reviewed the data independently collected by Wenhao Jia and Shuoqi Yang and completed all data analysis and figure preparation. For the manuscript, I established the overall structure and line of argument, then revised, integrated, and refined the initial draft to produce the final manuscript.
 
 ## Shuoqi Yang
 
