@@ -187,3 +187,9 @@ The first two images document the initial glue-contact build. The next two show 
 This is a mechanism drawing; a physical-build photograph is not included in the current image archive.
 
 <img src="assets/images/v3/center-punch-section.png" alt="V3 center-punch mechanism section drawing" width="320">
+
+### V3: center-punch mechanism video
+
+[<img src="assets/images/v3/center-punch-cutaway-preview.png" alt="Play the center-punch mechanism animation" width="320">](assets/videos/v3-center-punch-cutaway.mp4)
+
+[▶ Watch the video](assets/videos/v3-center-punch-cutaway.mp4)
