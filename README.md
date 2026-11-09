@@ -1,5 +1,15 @@
 # Piezoelectric Floor Tile
 
+## Experiment videos
+
+### Open-circuit test — 5 presses (IMG_7791)
+
+https://github.com/user-attachments/assets/d7630d02-6c3a-4639-a595-0fe88d64db57
+
+### 4.7 μF capacitor test — 10 presses (IMG_7792)
+
+https://github.com/user-attachments/assets/3c00106a-591d-475d-8370-14c3a34ea7ed
+
 An experimental footstep energy-harvesting project by **Shaoxuan Xiong, Shuoqi Yang, and Wenhao Jia**. Three mechanical designs explore how to load a piezoelectric disc, protect it from damage, and deliver repeatable energy to a storage capacitor.
 
 The project began with a replication of [Selim, Yehia and Saleeb (2024)](https://doi.org/10.1007/s42417-024-01379-z). During our replication, the hot-melt glue-stick contacts deformed and damaged the discs. We replaced those contacts with sponge pads, then developed spring–impactor and center-punch mechanisms.
@@ -190,7 +200,7 @@ This is a mechanism drawing; a physical-build photograph is not included in the 
   <tr><th width="390">Section drawing</th><th width="390">Mechanism video</th></tr>
   <tr>
     <td align="center" valign="middle"><img src="assets/images/v3/center-punch-section.png" alt="V3 center-punch mechanism section drawing" height="300"></td>
-    <td align="center" valign="middle"><a href="assets/videos/v3-center-punch-cutaway.mp4"><img src="assets/images/v3/center-punch-cutaway-preview.png" alt="Play the center-punch mechanism animation" height="300"></a></td>
+    <td align="center" valign="middle"><video src="https://github.com/user-attachments/assets/8360fb55-114a-463f-ac32-afa692dda5be" controls height="300"></video></td>
   </tr>
-  <tr><td align="center">Mechanism section</td><td align="center"><a href="assets/videos/v3-center-punch-cutaway.mp4">▶ Watch the video</a></td></tr>
+  <tr><td align="center">Mechanism section</td><td align="center">Play the animation above</td></tr>
 </table>
