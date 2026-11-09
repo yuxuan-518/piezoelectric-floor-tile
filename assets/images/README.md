@@ -16,4 +16,4 @@ A V2 assembled-tile photo originally outside the V2 subfolder is grouped here wi
 - [IMG_7799](v3/IMG_7799.jpg): components laid out, displayed in the bottom V3 gallery.
 - [IMG_7801](v3/IMG_7801.jpg): components and springs, displayed in the bottom V3 gallery.
 - [Assembled prototype, view 1](v3/assembled-1.jpg): placed before IMG_7800 near the front of the main README; source: 组装后1.HEIC.
-- [Assembled prototype, view 2](v3/assembled-2.jpg): displayed at the very end of the main README; source: 组装后2.HEIC.
+- [Assembled prototype, view 2](v3/assembled-2.jpg): displayed at the end of the V3 gallery in the main README; source: 组装后2.HEIC.
