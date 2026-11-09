@@ -10,6 +10,10 @@ https://github.com/user-attachments/assets/d7630d02-6c3a-4639-a595-0fe88d64db57
 
 https://github.com/user-attachments/assets/3c00106a-591d-475d-8370-14c3a34ea7ed
 
+### V3 prototype components (IMG_7800)
+
+<img src="assets/images/v3/IMG_7800.jpg" alt="Printed V3 center-punch components and springs" width="780">
+
 An experimental footstep energy-harvesting project by **Shaoxuan Xiong, Shuoqi Yang, and Wenhao Jia**. Three mechanical designs explore how to load a piezoelectric disc, protect it from damage, and deliver repeatable energy to a storage capacitor.
 
 The project began with a replication of [Selim, Yehia and Saleeb (2024)](https://doi.org/10.1007/s42417-024-01379-z). During our replication, the hot-melt glue-stick contacts deformed and damaged the discs. We replaced those contacts with sponge pads, then developed spring–impactor and center-punch mechanisms.
@@ -192,9 +196,9 @@ The first two images document the initial glue-contact build. The next two show 
   <tr><td colspan="2"><img src="assets/images/v2/fusion-center-loading.png" alt="V2 Fusion center-loading structural-analysis setup" width="780"></td></tr>
 </table>
 
-### V3: center-punch section drawing
+### V3: printed components, section drawing, and mechanism video
 
-This is a mechanism drawing; a physical-build photograph is not included in the current image archive.
+The photographs below show the printed V3 components and springs. The section drawing and video illustrate the mechanism.
 
 <table>
   <tr><th width="390">Section drawing</th><th width="390">Mechanism video</th></tr>
@@ -203,4 +207,12 @@ This is a mechanism drawing; a physical-build photograph is not included in the 
     <td align="center" valign="middle"><video src="https://github.com/user-attachments/assets/8360fb55-114a-463f-ac32-afa692dda5be" controls height="300"></video></td>
   </tr>
   <tr><td align="center">Mechanism section</td><td align="center">Play the animation above</td></tr>
+</table>
+
+<table>
+  <tr><th>Components laid out (IMG_7799)</th><th>Components and springs (IMG_7801)</th></tr>
+  <tr>
+    <td align="center"><img src="assets/images/v3/IMG_7799.jpg" alt="V3 printed components, springs, and fasteners laid out on a table" height="300"></td>
+    <td align="center"><img src="assets/images/v3/IMG_7801.jpg" alt="V3 printed components and springs viewed from the side" height="300"></td>
+  </tr>
 </table>
