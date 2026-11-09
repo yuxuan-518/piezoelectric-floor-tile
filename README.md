@@ -10,6 +10,10 @@ https://github.com/user-attachments/assets/d7630d02-6c3a-4639-a595-0fe88d64db57
 
 https://github.com/user-attachments/assets/3c00106a-591d-475d-8370-14c3a34ea7ed
 
+### V3 assembled prototype — view 1
+
+<img src="assets/images/v3/assembled-1.jpg" alt="Assembled V3 center-punch prototype connected to the experimental circuit" width="520">
+
 ### V3 prototype components (IMG_7800)
 
 <img src="assets/images/v3/IMG_7800.jpg" alt="Printed V3 center-punch components and springs" width="780">
@@ -198,7 +202,7 @@ The first two images document the initial glue-contact build. The next two show 
 
 ### V3: printed components, section drawing, and mechanism video
 
-The photographs below show the printed V3 components and springs. The section drawing and video illustrate the mechanism.
+The photographs below show the printed V3 components, springs, and assembled prototype. The section drawing and video illustrate the mechanism.
 
 <table>
   <tr><th width="390">Section drawing</th><th width="390">Mechanism video</th></tr>
@@ -216,3 +220,7 @@ The photographs below show the printed V3 components and springs. The section dr
     <td align="center"><img src="assets/images/v3/IMG_7801.jpg" alt="V3 printed components and springs viewed from the side" height="300"></td>
   </tr>
 </table>
+
+### V3 assembled prototype — view 2
+
+<img src="assets/images/v3/assembled-2.jpg" alt="Assembled V3 center-punch prototype with the internal spring visible through the side opening" width="520">
