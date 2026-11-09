@@ -161,6 +161,31 @@ Selim, K. K., Yehia, H. M., & Saleeb, D. A. (2024). *Energy Harvesting Floor Til
 
 ## Build photos and design images
 
+### V3: printed components, section drawing, and mechanism video
+
+The photographs below show the printed V3 components, springs, and assembled prototype. The section drawing and video illustrate the mechanism.
+
+<table>
+  <tr><th width="390">Section drawing</th><th width="390">Mechanism video</th></tr>
+  <tr>
+    <td align="center" valign="middle"><img src="assets/images/v3/center-punch-section.png" alt="V3 center-punch mechanism section drawing" height="300"></td>
+    <td align="center" valign="middle"><video src="https://github.com/user-attachments/assets/8360fb55-114a-463f-ac32-afa692dda5be" controls height="300"></video></td>
+  </tr>
+  <tr><td align="center">Mechanism section</td><td align="center">Play the animation above</td></tr>
+</table>
+
+<table>
+  <tr><th>Components laid out (IMG_7799)</th><th>Components and springs (IMG_7801)</th></tr>
+  <tr>
+    <td align="center"><img src="assets/images/v3/IMG_7799.jpg" alt="V3 printed components, springs, and fasteners laid out on a table" height="300"></td>
+    <td align="center"><img src="assets/images/v3/IMG_7801.jpg" alt="V3 printed components and springs viewed from the side" height="300"></td>
+  </tr>
+</table>
+
+### V3 assembled prototype — view 2
+
+<img src="assets/images/v3/assembled-2.jpg" alt="Assembled V3 center-punch prototype with the internal spring visible through the side opening" width="520">
+
 ### V1: replication and sponge revision
 
 The first two images document the initial glue-contact build. The next two show the revised sponge interface and the historical eight-disc tile.
@@ -199,28 +224,3 @@ The first two images document the initial glue-contact build. The next two show 
   <tr><th colspan="2">Structural-analysis setup</th></tr>
   <tr><td colspan="2"><img src="assets/images/v2/fusion-center-loading.png" alt="V2 Fusion center-loading structural-analysis setup" width="780"></td></tr>
 </table>
-
-### V3: printed components, section drawing, and mechanism video
-
-The photographs below show the printed V3 components, springs, and assembled prototype. The section drawing and video illustrate the mechanism.
-
-<table>
-  <tr><th width="390">Section drawing</th><th width="390">Mechanism video</th></tr>
-  <tr>
-    <td align="center" valign="middle"><img src="assets/images/v3/center-punch-section.png" alt="V3 center-punch mechanism section drawing" height="300"></td>
-    <td align="center" valign="middle"><video src="https://github.com/user-attachments/assets/8360fb55-114a-463f-ac32-afa692dda5be" controls height="300"></video></td>
-  </tr>
-  <tr><td align="center">Mechanism section</td><td align="center">Play the animation above</td></tr>
-</table>
-
-<table>
-  <tr><th>Components laid out (IMG_7799)</th><th>Components and springs (IMG_7801)</th></tr>
-  <tr>
-    <td align="center"><img src="assets/images/v3/IMG_7799.jpg" alt="V3 printed components, springs, and fasteners laid out on a table" height="300"></td>
-    <td align="center"><img src="assets/images/v3/IMG_7801.jpg" alt="V3 printed components and springs viewed from the side" height="300"></td>
-  </tr>
-</table>
-
-### V3 assembled prototype — view 2
-
-<img src="assets/images/v3/assembled-2.jpg" alt="Assembled V3 center-punch prototype with the internal spring visible through the side opening" width="520">
